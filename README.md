@@ -29,9 +29,6 @@ I am a final-year Data Science and Analytics student at JKUAT (graduating Dec 20
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-## 👥 Contributors
-
-- Francis ([@frenky869](https://github.com/frenky869))
 
 
 ## Current Project
@@ -44,7 +41,6 @@ Developing and deploying an interactive dashboard to forecast maize prices using
 - **GitHub:** [frenky869](https://github.com/frenky869)
  ## 👥 Contributors
 - Francis ([@frenky869](https://github.com/frenky869))
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 ![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=frenky869&show_icons=true&theme=radical)
