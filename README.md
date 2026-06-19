@@ -42,3 +42,6 @@ Developing and deploying an interactive dashboard to forecast maize prices using
 - **Email:** martin.francis@students.jkuat.ac.ke  
 - **LinkedIn:** [Francis Ogodo](https://www.linkedin.com/in/francis-ogodo)  
 - **GitHub:** [frenky869](https://github.com/frenky869)
+ ## 👥 Contributors
+- Francis ([@frenky869](https://github.com/frenky869))
+
