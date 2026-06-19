@@ -44,4 +44,8 @@ Developing and deploying an interactive dashboard to forecast maize prices using
 - **GitHub:** [frenky869](https://github.com/frenky869)
  ## 👥 Contributors
 - Francis ([@frenky869](https://github.com/frenky869))
+## 📊 GitHub Stats
+
+![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=frenky869&show_icons=true&theme=radical)
+
 
