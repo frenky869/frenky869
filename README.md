@@ -12,7 +12,8 @@ I am a final-year Data Science and Analytics student at JKUAT (graduating Dec 20
 - Collaborated with economists and planners to model fiscal scenarios and assess policy impact  
 - Cleaned and transformed large datasets using pandas for quarterly reporting  
 - Contributed to the development of data-driven strategies for resource allocation and economic forecasting
-**Freelance Web Developer & Data Science Gigs (2024 – Present)**  
+
+**Independent Web Developer & Data Science Freelancer 
 - Designed and deployed small‑scale websites for individual clients and small businesses  
 - Delivered tailored solutions on Upwork, including data cleaning, visualization, and lightweight analytics dashboards  
 - Applied Django, React, and Streamlit to build interactive applications for non‑technical users  
